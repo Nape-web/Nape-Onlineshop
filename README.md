@@ -8,7 +8,7 @@ Easy navigationon
 ## Installation
 CLone or download the repository from Github
 ## Usage
-Open the onlineshopping.html file and start browsing theitems available. Add to your cart and proceed to checkout. Once you have entered your payment information, your order will be processed.
+Open the online shop.html file and start browsing theitems available. Add to your cart and proceed to checkout. Once you have entered your payment information, your order will be processed.
 ## Contributing
 If you have any suggestion,feel free to contribution to this repository.
 
